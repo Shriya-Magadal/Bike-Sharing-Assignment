@@ -39,7 +39,7 @@ day.csv have the following fields:
 	- casual: count of casual users
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
-	
+
 
 Technologies used
 =========================================
@@ -53,6 +53,8 @@ Technologies used
 
 Insights from the model
 =========================================
+Approach taken to solve the problem is Multiple linear regression
+
 The variables which predict the demand for shared bikes are:
 
 - Year
