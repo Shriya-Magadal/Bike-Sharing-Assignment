@@ -1,5 +1,5 @@
 
-=========================================
+
 Problem Statement:
 =========================================
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
@@ -14,7 +14,7 @@ We are required to model the demand for shared bikes with the available independ
 
 
 
-=========================================
+
 Dataset characteristics
 =========================================	
 day.csv have the following fields:
@@ -41,7 +41,6 @@ day.csv have the following fields:
 	- cnt: count of total rental bikes including both casual and registered
 	
 
-=========================================
 Technologies used
 =========================================
 - Python - 3.12
@@ -52,7 +51,6 @@ Technologies used
 - statsmodels
 - sklearn
 
-=========================================
 Insights from the model
 =========================================
 The variables which predict the demand for shared bikes are:
@@ -66,7 +64,6 @@ The variables which predict the demand for shared bikes are:
 - Days of the week - Tuesday
 
 
-=========================================
 License
 =========================================
 Use of this dataset in publications must be cited to the following publication:
@@ -86,7 +83,6 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
 Contact
 =========================================
 	
